@@ -5,10 +5,13 @@ warnings_are_errors: true
 r_check_revdep: false
 
 r:
-  - 3.1
   - oldrel
   - release
   - devel
 
 r_packages:
   - devtools
+
+before_install:
+    - export DISPLAY=:99.0
+    - sh -e /etc/init.d/xvfb start
