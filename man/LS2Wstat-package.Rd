@@ -12,8 +12,8 @@ This package contains functions for testing for stationarity within images, spec
 \tabular{ll}{
 Package: \tab LS2Wstat\cr
 Type: \tab Package\cr
-Version: \tab 2.0-2\cr
-Date: \tab 18-06-2014\cr
+Version: \tab 2.1\cr
+Date: \tab 2018-05-21\cr
 License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 }
@@ -28,7 +28,7 @@ Maintainer: Matthew Nunes <m.nunes@lancaster.ac.uk>
 \references{
 For details on testing LS2W fields for stationarity, see
 
-Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A test of stationarity for textured images. Technometrics (to appear).\cr
+Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A Test of Stationarity for Textured Images. \emph{Technometrics}, \bold{56} (3), 291-301.\cr
 
 For further information on LS2W processes, see
 

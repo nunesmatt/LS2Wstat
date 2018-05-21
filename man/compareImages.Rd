@@ -21,7 +21,7 @@ An image \emph{montage} of two images is created, and the homogeneity measure \c
 \item{montageres}{A boolean value indicating whether the montage of \code{Im1} and \code{Im2} is stationary.}
 }
 \references{
-Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A test of stationarity for textured images. Technometrics (to appear).
+Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A Test of Stationarity for Textured Images. \emph{Technometrics}, \bold{56} (3), 291-301.
 }
 \author{
 Sarah L. Taylor and Matt Nunes 

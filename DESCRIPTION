@@ -1,8 +1,8 @@
 Package: LS2Wstat
 Type: Package
-Title: A Multiscale Test of Spatial Stationarity for LS2W processes
+Title: A Multiscale Test of Spatial Stationarity for LS2W Processes
 Version: 2.1
-Date: 2018-03-24
+Date: 2018-05-21
 Authors@R: c(person("Sarah", "Taylor", role="aut"), person("Matt",
         "Nunes", role=c("aut","cre"),email="m.nunes@lancaster.ac.uk"),person("Idris","Eckley",role=c("ctb","ths")))
 Depends: LS2W(>= 1.3-1), matrixStats, geoR, RandomFields, spdep

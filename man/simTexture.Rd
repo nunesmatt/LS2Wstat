@@ -53,7 +53,7 @@ The other optional arguments for \code{simTexture} are as follows:\cr
 \references{
 Matern, B. (1960) Spatial variation. Stochastic models and their application to some problems in forest surveys and other sampling investigations \emph{Meddleanden fran statens Skogsforskningsinstitut} \bold{49} (5). \cr
 Eckley, I.A., Nason, G.P., and Treloar, R.L. (2010) Locally stationary wavelet fields with application to the modelling and analysis of image texture \emph{Journal of the Royal Statistical Society Series C}, \bold{59}, 595-616.\cr
-Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A test of stationarity for textured images. Technometrics (to appear).
+Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A Test of Stationarity for Textured Images. \emph{Technometrics}, \bold{56} (3), 291-301.
 }
 \author{
 Sarah L. Taylor and Matt Nunes

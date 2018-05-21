@@ -43,7 +43,7 @@ A list with the following components:
 \item{p.value}{The bootstrap p-value for the test.}
 }
 \references{
-Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A test of stationarity for textured images. Technometrics (to appear).
+Taylor, S.L., Eckley, I.A., and Nunes, M.A. (2014) A Test of Stationarity for Textured Images. \emph{Technometrics}, \bold{56} (3), 291-301.
 }
 \author{
 Sarah L. Taylor
