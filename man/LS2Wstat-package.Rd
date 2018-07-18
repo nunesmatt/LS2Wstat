@@ -22,7 +22,7 @@ LazyLoad: \tab yes\cr
 \author{
 Sarah L. Taylor and Matt Nunes
 
-Maintainer: Matthew Nunes <m.nunes@lancaster.ac.uk>
+Maintainer: Matthew Nunes <nunesrpackages@gmail.com>
 
 }
 \references{
